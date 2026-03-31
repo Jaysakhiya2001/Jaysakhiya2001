@@ -30,7 +30,7 @@ I'm a **Senior MERN Stack Developer with 4+ years of experience** crafting high-
 | ⚡ **Specialty** | Microservices · Clean Architecture · Scalable APIs |
 | 🧠 **Approach** | Performance-first · Best practices · Maintainable code |
 | 🌍 **Availability** | Open to Freelance & Remote Opportunities |
-| 📧 **Contact** | jaysakhiya@gmail.com |
+| 📧 **Contact** | jaysakhiya7733@gmail.com |
 
 <div align="center">
   <a href="https://linkedin.com/in/jay-sakhiya-9bb168175" target="_blank">
